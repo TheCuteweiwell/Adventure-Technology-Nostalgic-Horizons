@@ -1,0 +1,1 @@
+recipes.addShapeless(<AncientWarfare:component:1>, [<ore:gearIron>]);

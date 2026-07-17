@@ -1,0 +1,66 @@
+{
+  "music.menu": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/menu/menu1",
+        "stream": true,
+        "volume" : 0.4
+      },
+      {
+        "name": "music/menu/menu2",
+        "stream": true,
+        "volume" : 0.4
+      },
+      {
+        "name": "music/menu/menu3",
+        "stream": true,
+        "volume" : 0.4
+      }
+    ]
+  },
+
+  "music.game": {
+    "category": "music",
+    "replace": false,
+    "sounds": [
+      {
+        "name": "music/game/game1",
+        "stream": true,
+        "volume": 0.6
+      },
+      {
+        "name": "music/game/game2",
+        "stream": true,
+        "volume": 0.6
+      },
+      {
+        "name": "music/game/game3",
+        "stream": true,
+        "volume": 0.6
+      }
+    ]
+  },
+    "music.game.creative": {
+    "category": "music",
+    "replace": false,
+    "sounds": [
+      {
+        "name": "music/game/game1",
+        "stream": true,
+        "volume": 0.6
+      },
+      {
+        "name": "music/game/game2",
+        "stream": true,
+        "volume": 0.6
+      },
+      {
+        "name": "music/game/game3",
+        "stream": true,
+        "volume": 0.6
+      }
+    ]
+  }
+}

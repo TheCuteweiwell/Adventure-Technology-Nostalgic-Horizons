@@ -1,0 +1,18 @@
+#Tips for the loading screen
+#Thanks to 0lafe, boubou19, chochem, interestingusernam3, glowredman, GTNH-Afx237v7, leagris, LewisSaber, Nvidiot, Regian24, richardhendricks, yukieiji, FijiAura and others for tip suggestions
+#
+#Maximal characters for a tip: 77 (more can go out of the screen)
+#Use the line below as a reference
+############################################################################
+感觉游戏内信息显示太烦人了？请查看qq群广告关于igi一栏
+其实每天睡觉醒来都会有上帝喊你起床哦
+想看到底有些什么mod吗，看看公告精华消息吧
+请查看群广告以避免崩溃事件
+CCB是什么意思？
+太热了怎么办，获得抗火效果可以恒温36.6°C
+理智值恢复太慢？吃金苹果可以快速恢复
+空气质量太低？试试放个树叶
+口渴值可以通过吃(金)苹果恢复
+附魔金苹果可以恢复口渴值，理智值，附带的防火可以恒温
+NEI的一键放入物品放不进去？看看你的匠魂合成台里面是否有物品
+为了不用打开箱子看到里面有什么物品，制作全息眼镜是个好主意

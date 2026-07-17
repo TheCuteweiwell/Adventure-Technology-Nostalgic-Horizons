@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<LootGroup category="techgunsReinforcedchestT2" loading_mode="OVERRIDE" count_min="4" count_max="8">
+    <loot item="minecraft:coal" damage="0" weight="3" count_min="4" count_max="16"/>
+    <loot item="minecraft:iron_ingot" damage="0" weight="3" count_min="3" count_max="12"/>
+    <loot item="minecraft:stone" damage="0" weight="3" count_min="16" count_max="32"/>
+    <loot item="minecraft:log" damage="0" weight="3" count_min="6" count_max="12"/>
+    <loot item="minecraft:gunpowder" damage="0" weight="3" count_min="4" count_max="8"/>
+    <loot item="minecraft:gold_ingot" damage="0" weight="3" count_min="2" count_max="6"/>
+    <loot item="Techguns:TechgunsAmmo" damage="73" weight="3" count_min="2" count_max="8"/>
+    <loot item="IC2:itemIngot" damage="1" weight="3" count_min="4" count_max="16"/>
+    <loot item="IC2:itemIngot" damage="0" weight="3" count_min="4" count_max="16"/>
+    <loot item="IC2:itemIngot" damage="5" weight="3" count_min="3" count_max="12"/>
+    <loot item="IC2:itemIngot" damage="6" weight="3" count_min="2" count_max="8"/>
+    <loot item="IC2:itemIngot" damage="3" weight="3" count_min="2" count_max="8"/>
+</LootGroup>

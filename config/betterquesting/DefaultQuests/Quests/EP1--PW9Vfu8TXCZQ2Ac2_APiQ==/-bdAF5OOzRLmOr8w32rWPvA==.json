@@ -1,0 +1,164 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -3384823418863071753,
+      "questIDLow:4": -7249611206399441151
+    },
+    "1:10": {
+      "questIDHigh:4": 1024097932907593797,
+      "questIDLow:4": -6122276876587510120
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "completion_animation:8": "default",
+      "completion_particle:8": "default",
+      "confetti_icon:10": {
+        "Count:3": 0,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "minecraft:stick"
+      },
+      "countAsQuest:1": 1,
+      "desc:8": "§c§l温度\n\n§r温度调默认显示位置在左下角第一行\n\n小框是环境温度，白点是体表温度，极端分为两种情况：\n\n一．温度过高。譬如：\r\r\n在沙漠群系中\n手持岩浆桶等\r\n在沙漠群系里穿铁甲（细节好评）或皮革套\r\r\n在火焰，火把，岩浆桶附近\r\r\n妈妈从小就教导我们，夏天不喝水会中暑\r\r\n常常处于炎热的环境中，玩家会疯狂流汗（对应水分值狂减）\n\n如果还不知悔改，你就会进入下一阶段：获得中暑I效果，此buff具体体现是移动速度变慢，还有轻微挖掘疲劳。\n然后再下一阶段：获得中暑II效果，濒临死亡\n\n如何从中暑中挽救自己：多喝冷水水，或者获得防火效果\n\n温度过低会出现对应buff：士冰男孩I和II，看世界会变成冷色调。行动更慢，最后导致无法移动和跳跃，而且拿在手中的物品将会掉落\n\n解决方法：任何让自己体温升高的方法都行。或者获得防火效果\n\n现在试着去做一个能用的水桶，让自己火热的体温降下来，由于现在你的技术不足以获得铁桶，因此你得去水下挖些黏土做成黏土桶，然后用熔炉烧硬(燃料你可以用木头，当然也可以燧石镐暖镐后去挖煤炭)",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "minecraft:ice"
+      },
+      "isMain:1": 1,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "冰火两重天",
+      "notification_duration:5": -1.0,
+      "notification_effect:3": -1,
+      "notification_fade_in:5": -1.0,
+      "notification_fade_out:5": -1.0,
+      "notification_icon_offset_y:3": -2147483648,
+      "notification_icon_scale:5": -1.0,
+      "notification_pos_x:3": -2147483648,
+      "notification_pos_y:3": -2147483648,
+      "notification_show_icon:8": "default",
+      "notification_style:8": "default",
+      "notification_subtitle:8": "",
+      "notification_subtitle_scale:5": -1.0,
+      "notification_title:8": "",
+      "notification_title_scale:5": -1.0,
+      "particle_count:3": -1,
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 7912831025920820409,
+  "questIDLow:4": -8165083059134820420,
+  "rewards:9": {
+    "0:10": {
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "OreDict:8": "",
+          "id:8": "lootbags:lootbag"
+        },
+        "1:10": {
+          "Count:3": 4,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "harvestcraft:fishdinnerItem"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requireOnlyOneItem:1": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:furnace"
+        },
+        "1:10": {
+          "Count:3": 3,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:clay_ball"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "IguanaTweaksTConstruct:clayBucketUnfired"
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
+    },
+    "1:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 1,
+      "partialMatch:1": 1,
+      "requireOnlyOneItem:1": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 16,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:planks"
+        },
+        "1:10": {
+          "Count:3": 4,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:coal"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "IguanaTweaksTConstruct:clayBucketFired"
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
+    },
+    "2:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 2,
+      "partialMatch:1": 1,
+      "requireOnlyOneItem:1": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "IguanaTweaksTConstruct:clayBucketWater"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

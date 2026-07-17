@@ -1,0 +1,71 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 4555170706589762618,
+      "questIDLow:4": -8533223824605560998
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "completion_animation:8": "default",
+      "completion_particle:8": "default",
+      "confetti_icon:10": {
+        "Count:3": 0,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "minecraft:stick"
+      },
+      "countAsQuest:1": 1,
+      "desc:8": "你说得对，更多生存要素是一个模组增加了各种生存所必须的要素，例如体温、口渴、空气质量、温度、理智等。这使得 Minecraft 变得更加科学，难度也大大增加,类似于意志坚定mod\n\n\u0026q总体特性:\n§c§l\n体温\r\n\r\n§r正常体温在 §a36~37℃§r 之间，其升降取决于环境温度（受玩家所在的地形以及周边的环境的影响）。\r\n\r\nMod 界面的温度计图标表示玩家的体感温度而非体温。\r\n体温过高或者过低都会导致各种负面效果以至死亡。\r\n夜晚/下雨以及环境中的冰和雪会降低体温，而在火把岩浆附近或者太阳底下、躺在床上等等会提高体温。\r\n各种护甲都有一定程度（正面或者反面）的温度调节功能，例如铁甲会加快导热速度，无论是在太阳底下或是阴凉处都难以维持正常体温，默认钻石甲最佳。\r\n\r\n像狼和羊这种长了茂密的毛的生物将不容易死于冻伤，但它们更容易体温过热！\r\n如果你小心迷失在了寒冷的地带，你可以钻进羊群和狼群中取暖！\n\n§b§l口渴\r\n\r\n§r§9水§r在本 Mod 中是一种很重要的资源，玩家必须喝水。\r\n最简单的喝水方法是对着水方块右键，但是在很多地形中这种方法不但不能解渴，反而会给玩家带来各种致命的负面效果。\r\n例如在海洋环境中直接喝水反而会导致§3脱水§r，在丛林沼泽中会中毒，等等…\r\n获得干净饮用水的方法有两种：用玻璃瓶装水然后放到炉子里烧，或者在坩埚中放水，下边点上火。\r\nCamel Pack 可以存很多水，但是需要装备在护甲栏才有效果。\n\n§7§l空气质量\r\n\r\n§r当玩家身处于峡谷的深处，空气质量就会下降（缺氧）。\r\n不过无论你的海拔多低，空气质量都不会降低，除非你身边有火把或者岩浆等会让空气质量缓慢降低的东西。\r\n\r\n§2树叶§r会净化空气，增加的你的空气质量。\r\n此外，如果你戴上水下呼吸附魔的头盔，也能不受空气质量的影响。\n\n§d§l理智\r\n\r\n§r玩家在黑暗中呆的过久或者被怪物攻击会降低§d理智§r（尤其是末影人），过低可能会导致眩晕失明以及各种负面效果。\r\n\r\n身上携带各种花有助于保持理智（需要放在快捷栏）。\r\n此外，食用金苹果或睡觉可以快速恢复理智。\n\n此整合包已禁用:地震和物理系统\n\n接下来会详细介绍，但你先得把匠魂路线走完...",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "enviromine:camelPack",
+        "tag:10": {
+          "camelPackFill:3": 0,
+          "camelPackMax:3": 100,
+          "isCamelPack:1": 1
+        }
+      },
+      "isMain:1": 1,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "咦？我的身上多出些奇怪的特性",
+      "notification_duration:5": -1.0,
+      "notification_effect:3": -1,
+      "notification_fade_in:5": -1.0,
+      "notification_fade_out:5": -1.0,
+      "notification_icon_offset_y:3": -2147483648,
+      "notification_icon_scale:5": -1.0,
+      "notification_pos_x:3": -2147483648,
+      "notification_pos_y:3": -2147483648,
+      "notification_show_icon:8": "default",
+      "notification_style:8": "default",
+      "notification_subtitle:8": "",
+      "notification_subtitle_scale:5": -1.0,
+      "notification_title:8": "",
+      "notification_title_scale:5": -1.0,
+      "particle_count:3": -1,
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -3384823418863071753,
+  "questIDLow:4": -7249611206399441151,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

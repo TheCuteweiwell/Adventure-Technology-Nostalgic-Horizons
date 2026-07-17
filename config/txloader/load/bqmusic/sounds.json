@@ -1,0 +1,11 @@
+{
+  "stage": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "stage",
+        "stream": false
+      }
+    ]
+  }
+}

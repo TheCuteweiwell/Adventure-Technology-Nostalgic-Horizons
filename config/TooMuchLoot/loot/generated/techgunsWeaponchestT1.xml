@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<LootGroup category="techgunsWeaponchestT1" loading_mode="OVERRIDE" count_min="2" count_max="8">
+    <loot item="Techguns:handcannon" damage="0" weight="2" count_min="1" count_max="1"/>
+    <loot item="Techguns:TechgunsAmmo" damage="0" weight="3" count_min="8" count_max="16"/>
+    <loot item="Techguns:TechgunsAmmo" damage="1" weight="3" count_min="4" count_max="8"/>
+    <loot item="Techguns:TechgunsAmmo" damage="4" weight="3" count_min="4" count_max="32"/>
+    <loot item="Techguns:revolver" damage="0" weight="2" count_min="1" count_max="1"/>
+    <loot item="Techguns:sawedoff" damage="0" weight="2" count_min="1" count_max="1"/>
+    <loot item="Techguns:thompson" damage="0" weight="2" count_min="1" count_max="1"/>
+    <loot item="Techguns:TechgunsAmmo" damage="5" weight="3" count_min="3" count_max="6"/>
+</LootGroup>

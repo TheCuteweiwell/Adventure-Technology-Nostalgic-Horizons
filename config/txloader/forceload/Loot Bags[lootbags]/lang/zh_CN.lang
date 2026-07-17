@@ -1,0 +1,13 @@
+#Translation Fix by TheCuteweiwell
+name.lootbags_lootbagCommon.name=普通礼袋
+name.lootbags_lootbagUncommon.name=不同寻常的礼袋
+name.lootbags_lootbagRare.name=稀有级礼袋
+name.lootbags_lootbagEpic.name=史诗级礼袋
+name.lootbags_lootbagLegendary.name=传奇级礼袋
+name.lootbags_lootbagBacon.name=猪肉礼袋
+name.lootbags_lootbagBat.name=蝙蝠礼袋
+name.lootbags_lootbagWornOut.name=破旧的礼袋
+name.lootbags_lootbagSoaryn.name=让你飞起来礼袋
+name.lootbags_lootbagWyld.name=狂野礼袋
+
+tile.lootbags_loot_recycler.name=礼袋回收器

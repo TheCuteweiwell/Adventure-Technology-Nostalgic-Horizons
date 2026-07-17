@@ -1,0 +1,110 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 4555170706589762618,
+      "questIDLow:4": -8533223824605560998
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "completion_animation:8": "default",
+      "completion_particle:8": "default",
+      "confetti_icon:10": {
+        "Count:3": 0,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "minecraft:stick"
+      },
+      "countAsQuest:1": 1,
+      "desc:8": "接下来的时期§6匠魂工具§r将陪伴你到挖到钻石的那时候，当然在后期匠魂工具也是不赖的选择。\r\n\r\n§4匠魂增强§r禁用掉了绝大部分工具，因此在你挖到钻石以前必须一直使用匠魂工具。\n\n阅读之后请完成此任务进入下一阶段。\n\n或者你可以在匠魂宝典中学习并完成匠魂任务",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "TConstruct:frypan",
+        "tag:10": {
+          "InfiTool:10": {
+            "Attack:3": 52,
+            "BaseAttack:3": 52,
+            "BaseDurability:3": 80000,
+            "BonusDurability:3": 0,
+            "Broken:1": 0,
+            "Built:1": 1,
+            "Damage:3": 0,
+            "Handle:3": 501,
+            "HarvestLevel:3": 7,
+            "Head:3": 501,
+            "MiningSpeed:3": 6000,
+            "ModDurability:5": 0.0,
+            "Modifiers:3": 15,
+            "RenderHandle:3": 501,
+            "RenderHead:3": 501,
+            "Shoddy:5": 0.0,
+            "ToolEXP:4": 0,
+            "ToolLevel:3": 1,
+            "TotalDurability:3": 80000,
+            "Unbreaking:3": 10
+          }
+        }
+      },
+      "isMain:1": 1,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "隆重介绍，匠魂！",
+      "notification_duration:5": -1.0,
+      "notification_effect:3": -1,
+      "notification_fade_in:5": -1.0,
+      "notification_fade_out:5": -1.0,
+      "notification_icon_offset_y:3": -2147483648,
+      "notification_icon_scale:5": -1.0,
+      "notification_pos_x:3": -2147483648,
+      "notification_pos_y:3": -2147483648,
+      "notification_show_icon:8": "default",
+      "notification_style:8": "default",
+      "notification_subtitle:8": "",
+      "notification_subtitle_scale:5": -1.0,
+      "notification_title:8": "",
+      "notification_title_scale:5": -1.0,
+      "particle_count:3": -1,
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -6987647798374546492,
+  "questIDLow:4": -8399946496080256082,
+  "rewards:9": {
+    "0:10": {
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "TConstruct:manualBook"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "OreDict:8": "",
+          "id:8": "TConstruct:manualBook"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

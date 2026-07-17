@@ -1,0 +1,86 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -3384823418863071753,
+      "questIDLow:4": -7249611206399441151
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "completion_animation:8": "default",
+      "completion_particle:8": "default",
+      "confetti_icon:10": {
+        "Count:3": 0,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "minecraft:stick"
+      },
+      "countAsQuest:1": 1,
+      "desc:8": "§7§l空气质量\n\n§r右下角第二行为空气质量\n\n在插满火把的矿洞里呆得够久了会狂掉。（掉到一定程度会有挖掘疲劳与缓慢）\n\nmod的空气系统\n\n1. 火把不再是核能，随机少量火把会熄灭。不在发光。打掉掉落木棍。\n2.火把会引燃木制品(已关闭)。煤矿石附近的火把还会把煤变成burning coal，燃烧的煤\n3. 燃烧的煤会产生煤气。呆在里面会中毒，空气质量狂降。站在上面会被引燃……\n4.地下会随机稀有生成一种无色无味（误）的可燃性气体，附近有火源会发生爆燃现象……\n\n口罩：带上直接回满空气条。有耐久。\n\n树叶可以恢复你四周的空气质量。下矿必带。\n\n但现在的口罩好像不是你能做得了的，我送给你一个吧\n\n如何使用:\r\n1.将面罩戴头上\r\n2.手里拿着过滤器右键即可\r\n如果要取下过滤器只需拿下面罩蹲下+右键即可",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 64,
+        "Damage:2": 5,
+        "OreDict:8": "",
+        "id:8": "IC2:itemCellEmpty"
+      },
+      "isMain:1": 1,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "尘肺八分钱",
+      "notification_duration:5": -1.0,
+      "notification_effect:3": -1,
+      "notification_fade_in:5": -1.0,
+      "notification_fade_out:5": -1.0,
+      "notification_icon_offset_y:3": -2147483648,
+      "notification_icon_scale:5": -1.0,
+      "notification_pos_x:3": -2147483648,
+      "notification_pos_y:3": -2147483648,
+      "notification_show_icon:8": "default",
+      "notification_style:8": "default",
+      "notification_subtitle:8": "",
+      "notification_subtitle_scale:5": -1.0,
+      "notification_title:8": "",
+      "notification_title_scale:5": -1.0,
+      "particle_count:3": -1,
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -856134435450502068,
+  "questIDLow:4": -5585102363379894249,
+  "rewards:9": {
+    "0:10": {
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "hbm:item.gas_mask_mono"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "hbm:item.gas_mask_filter"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -2575154791492270484,
+      "questIDLow:4": -8922770471828095315
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "completion_animation:8": "default",
+      "completion_particle:8": "default",
+      "confetti_icon:10": {
+        "Count:3": 0,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "minecraft:stick"
+      },
+      "countAsQuest:1": 1,
+      "desc:8": "更新ATNH:\r\n§4§l注意：在更新后，你手中的物品可能会消失，强烈建议先将物品栏内的所有物品转移到箱子中再更新！\n\r\n§r1.安装一个新版本的整合包\n\r\n2.打开你的旧版本ATNH启动器，选中实例，打开实例文件夹，把旧版本.minecraft文件夹中的以下文件夹移动到新版本路径：\r\njourneymap：旅行地图\r\nsaves：存档及NEI收藏\r\nTCNodeTracker：已扫描节点\r\noptions.txt：快捷键设置\n\r\n3.如果你修改过整合包，迁移以下文件：\r\nmods：如果你自己又加了mod，移到新版本整合包\r\nconfig：配置文件，如果你添加或改过配置文件，把你改过的那个配置文件覆盖就行\r\nresourcepacks：资源包，如果你自己添加了资源包，把你自己的加进去\r\nshaderpacks：光影，同上\r\n",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "okbackpack:advanced_restock_upgrade"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "更新ATNH",
+      "notification_duration:5": -1.0,
+      "notification_effect:3": -1,
+      "notification_fade_in:5": -1.0,
+      "notification_fade_out:5": -1.0,
+      "notification_icon_offset_y:3": -2147483648,
+      "notification_icon_scale:5": -1.0,
+      "notification_pos_x:3": -2147483648,
+      "notification_pos_y:3": -2147483648,
+      "notification_show_icon:8": "default",
+      "notification_style:8": "default",
+      "notification_subtitle:8": "",
+      "notification_subtitle_scale:5": -1.0,
+      "notification_title:8": "",
+      "notification_title_scale:5": -1.0,
+      "particle_count:3": -1,
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 5949982775804643057,
+  "questIDLow:4": -6521743439375153376,
+  "rewards:9": {
+    "0:10": {
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 32,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "enviromine:fake_torch"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

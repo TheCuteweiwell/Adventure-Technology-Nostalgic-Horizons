@@ -1,0 +1,1 @@
+mods.mekanism.Enrichment.addRecipe(<DraconicEvolution:draconiumIngot>, <BiomesOPlenty:gems>);

@@ -1,0 +1,1 @@
+mods.mekanism.Crusher.addRecipe(<minecraft:ender_pearl>, <EnderIO:itemPowderIngot:5>);

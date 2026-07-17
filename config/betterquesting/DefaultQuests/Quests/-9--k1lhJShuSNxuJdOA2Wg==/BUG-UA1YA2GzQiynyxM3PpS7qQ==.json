@@ -1,0 +1,80 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -2575154791492270484,
+      "questIDLow:4": -8922770471828095315
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "completion_animation:8": "default",
+      "completion_particle:8": "default",
+      "confetti_icon:10": {
+        "Count:3": 0,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "minecraft:stick"
+      },
+      "countAsQuest:1": 1,
+      "desc:8": "目前测试的崩溃事件和Bug(SP表示单人世界测试，MP表示多人世界)\n\r\n§c§l1.矿石菌种(OreSpawn)在玩家携带物品的状态下强制进入或离开白蚁群落时会崩端(SP)\r\n办法:重进服务器且下次丢掉所有物品再进入\n\r\n§r2.在游戏内切换光影崩端(电脑配置太差导致的)(SP)\r\n办法:重进服务器或者不开光影\n\r\n3.开启连锁时崩端(SP/MP)\r\n办法:关闭连锁预览(模组设定-\u003eqzminer-\u003e点击config-\u003e把clientEnablePreviewRender改为false)\n\r\n§r4.按H键崩溃，额外植物学(Extra Botany)的渲染问题(SP/MP)\r\n办法:将所有绑定H键的mod换成其他键\n\r\n5.古代战争(AW2)与Angelica冲突，导致古代战争NPC为紫黑块(SP/MP)\r\n办法:模组设定→Angelica→general→把enableMCPatcherForgeFeatures改为false并重启游戏，但你会失去连接材质(比如无缝玻璃)\n\n6.穿上冒险背包(Adventure Backpack)时，按b打开背包或者打开生存模式物品栏崩溃，日志显示与匠魂(TConstruct)冲突(SP)\n\r办法:暂时删除本mod用精妙背包代替\n\n7.无尽贪婪(Avaritia)的寰宇支配之剑不能秒杀科技枪(TechGun)的僵尸还有一部分mod的生物(SP/MP)\r\n办法:无法解决\n\r\n8.打开waila设置时如果按返回按钮会导致崩溃，依旧与额外植物学(ExtraBotany)神必ui冲突(SP)\r\n办法:使用esc返回",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "etfuturum:barrier"
+      },
+      "isMain:1": 1,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "关于此整合包的BUG问题",
+      "notification_duration:5": -1.0,
+      "notification_effect:3": -1,
+      "notification_fade_in:5": -1.0,
+      "notification_fade_out:5": -1.0,
+      "notification_icon_offset_y:3": -2147483648,
+      "notification_icon_scale:5": -1.0,
+      "notification_pos_x:3": -2147483648,
+      "notification_pos_y:3": -2147483648,
+      "notification_show_icon:8": "default",
+      "notification_style:8": "default",
+      "notification_subtitle:8": "",
+      "notification_subtitle_scale:5": -1.0,
+      "notification_title:8": "",
+      "notification_title_scale:5": -1.0,
+      "particle_count:3": -1,
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 5768363469278757420,
+  "questIDLow:4": -6355965321109259351,
+  "rewards:9": {
+    "0:10": {
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 4,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "harvestcraft:delightedmealItem"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

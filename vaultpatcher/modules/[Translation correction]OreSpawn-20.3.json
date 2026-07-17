@@ -1,0 +1,156 @@
+[
+    {
+        "authors": "Man_Xiang",
+        "name": "[Translation correction]OreSpawn-20.3",
+        "desc": "对矿石菌种硬编码内容的汉化补充。",
+        "mods": "[Translation correction]OreSpawn-20.3",
+        "dynamic": false,
+        "i18n": false
+    },
+
+    {
+        "target_class": ["danger.orespawn.KeyHandler"],
+        "pairs": [
+            {
+                "key": "OreSpawn UP/FAST",
+                "value": "上升/加速"
+            }
+        ]
+    },
+
+    {
+        "target_class": ["danger.orespawn.ThePrince", "danger.orespawn.ThePrincess"],
+        "pairs": [
+            {
+                "key": "Prince fireballs extinguished.",
+                "value": "王子的火球攻击已被禁用。"
+            },
+            {
+                "key": "Prince fireballs lit!",
+                "value": "王子的火球攻击已被启用！"
+            },
+            {
+                "key": "Princess fireballs extinguished.",
+                "value": "公主的火球攻击已被禁用。"
+            },
+            {
+                "key": "Princess fireballs lit!",
+                "value": "公主的火球攻击已被启用！"
+            }
+        ]
+    },
+
+    {
+        "target_class": ["danger.orespawn.ThePrinceAdult","danger.orespawn.ThePrinceTeen"],
+        "pairs": [
+            {
+                "key": "Fireballs extinguished.",
+                "value": "火球攻击已被禁用。"
+            },
+            {
+                "key": "Fireballs lit!",
+                "value": "火球攻击已被启用！"
+            }
+        ]
+    },
+
+    {
+        "target_class": ["danger.orespawn.Termite"],
+        "pairs": [
+            {
+                "key": "Empty your hand!",
+                "value": "把你手里的东西放起来！"
+            },
+            {
+                "key": "Empty your inventory!",
+                "value": "清空你身上的东西！"
+            },
+            {
+                "key": "Take off your armor!",
+                "value": "脱下你的护甲！"
+            }
+        ]
+    },
+
+    {
+        "target_class": ["danger.orespawn.Boyfriend"],
+        "pairs": [
+            {
+                "key": "I have %d health. Thanks for asking!",
+                "value": "我还有 %d 点健康值。谢谢关心！"
+            }
+        ]
+    },
+
+    {
+        "target_class": ["danger.orespawn.Dragon"],
+        "pairs": [
+            {
+                "key": "Dragon fireballs extinguished.",
+                "value": "龙的火球攻击已被禁用。"
+            },
+            {
+                "key": "Dragon fireballs lit!",
+                "value": "龙的火球攻击已被启用！"
+            },
+            {
+                "key": "Dragon fireballs supercharged!",
+                "value": "龙的火球威力已被加强！"
+            }
+        ]
+    },
+
+    {
+        "target_class": ["danger.orespawn.Girlfriend"],
+        "pairs": [
+            {
+                "key": "I have %d health. Thank you for asking! xoxo",
+                "value": "我有 %d 点生命值。谢谢你的关心！亲亲抱抱！"
+            }
+        ]
+    },
+
+    {
+        "target_class": ["danger.orespawn.Spyro"],
+        "pairs": [
+            {
+                "key": "Baby Dragon fireballs extinguished.",
+                "value": "龙宝宝的火球攻击已被禁用。"
+            },
+            {
+                "key": "Baby Dragon fireballs lit!",
+                "value": "龙宝宝的火球攻击已被启用！"
+            }
+        ]
+    },
+
+    {
+        "target_class": ["danger.orespawn.TheKing"],
+        "pairs": [
+            {
+            "key": "The King: Enough of this charade. I am done. You have shown me what I wanted to know.",
+            "value": "王者-基多拉：这场游戏玩够了。我受够了。我已经知道我想知道的一切了。"
+            },
+            {
+            "key": "The King: That's right my little pet. It has all been a game. You never killed me. You can't.",
+            "value": "王者-基多拉：没错，我的小宠物。这一切都只是游戏。你从未杀死过我。你杀不了我。"
+            },
+            {
+            "key": "The King: I am the one. The only. The many. I exist within both space and time. Everywhere and always.",
+            "value": "王者-基多拉：我就是那唯一的存在。独一无二。亦或众人皆我。我存在于时空之中。无处不在，无时不在。"
+            },
+            {
+            "key": "The King: I used you to learn your ways, and I have reached my conclusion on your species.",
+            "value": "王者-基多拉：我利用你来学习你们族群的生活方式，现在我已经对你们族群有了自己的看法。"
+            },
+            {
+            "key": "The King: You have 10 seconds to run...",
+            "value": "王者-基多拉：你有十秒钟的时间来跑。.."
+            },
+            {
+            "key": "The King: Prepare to die!",
+            "value": "王者-基多拉：准备受死吧！"
+            }
+        ]
+    }
+]

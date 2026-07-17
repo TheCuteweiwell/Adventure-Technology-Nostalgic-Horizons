@@ -1,0 +1,395 @@
+invertYMouse:false
+mouseSensitivity:0.5
+fov:0.375
+gamma:1.0
+saturation:0.0
+renderDistance:12
+guiScale:4
+particles:1
+bobView:false
+anaglyph3d:false
+advancedOpengl:false
+maxFps:255
+fboEnable:true
+difficulty:2
+fancyGraphics:true
+ao:2
+clouds:true
+resourcePacks:[]
+lastServer:
+lang:zh_CN
+chatVisibility:0
+chatColors:true
+chatLinks:true
+chatLinksPrompt:true
+chatOpacity:1.0
+snooperEnabled:false
+fullscreen:false
+enableVsync:false
+hideServerAddress:false
+advancedItemTooltips:true
+pauseOnLostFocus:true
+showCape:true
+touchscreen:false
+overrideWidth:0
+overrideHeight:0
+heldItemTooltips:true
+chatHeightFocused:1.0
+chatHeightUnfocused:0.44366196
+chatScale:1.0
+chatWidth:1.0
+showInventoryAchievementHint:false
+mipmapLevels:0
+anisotropicFiltering:1
+streamBytesPerPixel:0.5
+streamMicVolume:1.0
+streamSystemVolume:1.0
+streamKbps:0.5412844
+streamFps:0.31690142
+streamCompression:1
+streamSendMetadata:true
+streamPreferredServer:
+streamChatEnabled:0
+streamChatUserFilter:0
+streamMicToggleBehavior:0
+forceUnicodeFont:false
+key_key.attack:-100
+key_key.use:-99
+key_key.forward:17
+key_key.left:30
+key_key.back:31
+key_key.right:32
+key_key.jump:57
+key_key.sneak:42
+key_key.drop:16
+key_key.inventory:18
+key_key.chat:28
+key_key.playerlist:15
+key_key.pickItem:38
+key_key.command:53
+key_key.screenshot:60
+key_key.togglePerspective:41
+key_key.smoothCamera:0
+key_key.sprint:29
+key_key.fullscreen:87
+key_key.hotbar.1:2
+key_key.hotbar.2:3
+key_key.hotbar.3:4
+key_key.hotbar.4:5
+key_key.hotbar.5:6
+key_key.hotbar.6:7
+key_key.hotbar.7:8
+key_key.hotbar.8:9
+key_key.hotbar.9:10
+key_ALT Key:56
+key_Boost Key:47
+key_Mode Switch Key:46
+key_Side Inventory Key:0
+key_Hub Expand Key:0
+key_key.container_interaction.desc:0
+key_key.wireless_extra_action.desc:-96
+key_key.wireless_mode_switch.desc:0
+key_ae2wct.OpenTerminal:0
+key_ae2wct.OpenMagnetFilter:0
+key_ae2wct.SwitchMagnetMode:0
+key_ae2stuff.key.mode:0
+key_backhand.swap_offhand:33
+key_nei.options.keys.gui.enchant:0
+key_nei.options.keys.gui.potion:25
+key_nei.options.keys.gui.prev:201
+key_nei.options.keys.gui.next:209
+key_nei.options.keys.gui.hide:24
+key_nei.options.keys.gui.search:33
+key_nei.options.keys.gui.overlay:31
+key_nei.options.keys.gui.craft_items:46
+key_nei.options.keys.gui.getprevioussearch:0
+key_nei.options.keys.gui.getnextsearch:208
+key_nei.options.keys.gui.next_tooltip:44
+key_nei.options.keys.recipe.recipe:19
+key_nei.options.keys.recipe.usage:22
+key_nei.options.keys.recipe.back:14
+key_nei.options.keys.recipe.prev_machine:200
+key_nei.options.keys.recipe.next_machine:208
+key_nei.options.keys.recipe.prev_recipe:203
+key_nei.options.keys.recipe.next_recipe:205
+key_nei.options.keys.bookmark.add:30
+key_nei.options.keys.bookmark.favorite:33
+key_nei.options.keys.bookmark.favorite_item:33
+key_nei.options.keys.bookmark.remove_recipe:30
+key_nei.options.keys.bookmark.pull_items:47
+key_nei.options.keys.bookmark.hide:48
+key_nei.options.keys.itemzoom.toggle:44
+key_nei.options.keys.itemzoom.hold:0
+key_nei.options.keys.itemzoom.zoom_in:0
+key_nei.options.keys.itemzoom.zoom_out:0
+key_nei.options.keys.world.chunkoverlay:67
+key_nei.options.keys.world.moboverlay:65
+key_nei.options.keys.world.highlight_tips:82
+key_nei.options.keys.world.dawn:0
+key_nei.options.keys.world.noon:0
+key_nei.options.keys.world.dusk:0
+key_nei.options.keys.world.midnight:0
+key_nei.options.keys.world.rain:0
+key_nei.options.keys.world.heal:0
+key_nei.options.keys.world.creative:0
+key_nei.options.keys.copy.name:46
+key_nei.options.keys.copy.oredict:32
+key_nei.options.keys.copy.identifier:0
+key_nei.options.keys.copy.chat_link_item:38
+key_OreSpawn UP/FAST:0
+key_key.toggle_focus.desc:0
+key_key.search_connected_inventories.desc:0
+key_key.pick_block.desc:0
+key_key.locate_item_flow.desc:0
+key_Special:0
+key_key.openCompendium:25
+key_key.skills:23
+key_key.cinfo:0
+key_key.skillnameleft:203
+key_key.skillnameright:205
+key_key.lognot:184
+key_key.exped:200:SHIFT
+key_key.betterquesting.quests:62
+key_key.party:78
+key_key.next:0
+key_key.prev:46
+key_key.chromatictooltips.next_page:44
+key_key.chromatictooltips.previous_page:0
+key_NPC Inventory:0
+key_key.customnpcs.special:0
+key_key.customnpcs.abilityHudKey:0
+key_key.customnpcs.abilityNext:0
+key_key.customnpcs.abilityPrev:0
+key_dh.key.broom:46
+key_doggytalents.key.come:200
+key_doggytalents.key.stay:208
+key_doggytalents.key.ok:203
+key_doggytalents.key.heel:205
+key_hbm.key.calculator:0
+key_hbm.key.toggleBack:0
+key_hbm.key.toggleMagnet:0
+key_hbm.key.toggleHUD:0
+key_hbm.key.dash:42
+key_hbm.key.trainInv:19
+key_hbm.key.slamkey:29
+key_hbm.key.qmaw:59
+key_hbm.key.reload:19
+key_hbm.key.gunPrimary:-100
+key_hbm.key.gunSecondary:-99
+key_hbm.key.gunTertitary:-98
+key_hbm.key.craneMoveUp:200
+key_hbm.key.craneMoveDown:208
+key_hbm.key.craneMoveLeft:203
+key_hbm.key.craneMoveRight:205
+key_hbm.key.craneLoad:28
+key_hbm.key.ability:0
+key_hbm.key.abilityAlt:56
+key_hbm.key.copyToolAlt:56
+key_hbm.key.copyToolCtrl:29
+key_打开音效消音器界面:0
+key_nei.options.keys.gui.findit.find_block:21
+key_Down key:29
+key_Inventory key:19
+key_Bomb Key:47
+key_Gun Key:0
+key_Control Switch key:0
+key_Reload key:19
+key_Select Preferred Ammo key:25
+key_Gun Mode key:33
+key_Minigames Select Team Key:34
+key_Minigames Scores Key:0
+key_Minigames Select Class Key:24
+key_Roll Left Key:44
+key_Roll Right Key:0
+key_Gear Up / Down Key:38
+key_Door Open / Close Key:37
+key_Mode Switch Key:0
+key_Flare Key:0
+key_Debug Key:68
+key_Reload Models Key:67
+key_Mod Options:39
+key_Select Gun Underbarrel:37
+key_Increase Scope Zoom:200
+key_Decrease Scope Zoom:208
+key_key.discordRing:0
+key_Gravi Fly Key:49
+key_Gravi Display Hud:0
+key_GraviSuite MedKit:0
+key_navigator.key.action:211
+key_key.serverutilities.nbt:0
+key_key.serverutilities.trash:0
+key_HoloGlasses:76
+key_Mo'Creatures：潜水/向下飞行:0
+key_CharacterScreen:88
+key_MPM 1:44
+key_MPM 2:0
+key_MPM 3:0
+key_MPM 4:0
+key_MPM 5:0
+key_openblocks.keybind.vario_switch:0
+key_openblocks.keybind.vario_vol_up:0
+key_openblocks.keybind.vario_vol_down:0
+key_key.follow.desc:29
+key_key.chest1.desc:0
+key_key.chest2.desc:50
+key_key.ready_guns.desc:25
+key_key.fire_port.desc:26
+key_key.fire_star.desc:27
+key_asjcore.orthoProjection:0
+key_asjcore.noEntityInteract:68
+key_key.cameraZoomIn:13
+key_key.cameraZoomOut:12
+key_key.cameraEmitRedstone:19
+key_key.cameraActivateNightVision:0
+key_nei.options.keys.gui.pattern_view:25
+key_饰品栏:0
+key_Change Wand Focus:0
+key_Activate Hover Harness:0
+key_Misc Wand Toggle:0
+key_waila.keybind.wailaconfig:82
+key_waila.keybind.wailadisplay:79
+key_waila.keybind.liquid:80
+key_waila.keybind.recipe:81
+key_waila.keybind.usage:75
+key_waila.keybind.showadvanced:42
+key_ae2fc.key.OpenTerminal:0
+key_ae2fc.key.OpenCraftingTerminal:0
+key_ae2fc.key.OpenLevelTerminal:0
+key_ae2fc.key.OpenInterfaceTerminal:0
+key_ae2fc.key.OpenPatternTerminal:0
+key_ae2fc.key.OpenPatternExTerminal:0
+key_ae2fc.key.Restock:0
+key_key.aether.accessory_menu:0
+key_botaniamisc.toggleLoki:0
+key_botaniamisc.ringOfLokiClear:0
+key_botaniamisc.ringOfLokiMirror:0
+key_key.tarmor:0
+key_key.tgoggles:0
+key_key.tbelt:0
+key_key.tzoom:0
+key_Reload Shaders:0
+key_Toggle Shaders:0
+key_Shaderpack Selection Screen:0
+key_Zoom:-98
+key_Automagy.key.focusCrafting:0
+key_bbw.key.mode:0
+key_bbw.key.fluidmode:0
+key_ttmisc.toggleArmor:0
+key_滑翔开关:0
+key_声波定位:0
+key_夜视:0
+key_揭示护目镜:0
+key_铁路工护目镜:0
+key_步行辅助:0
+key_速度:0
+key_跳跃:0
+key_以太扳手模式:0
+key_电磁铁:0
+key_Travel Staff Blink:0
+key_key.materialCosts:0
+key_key.clipboardPaste:0
+key_Mekanism 模式切换:50
+key_Mekanism 装甲模式切换:56
+key_key.placeItem:0
+key_key.toolConfig:0
+key_key.toolProfileChange:0
+key_key.toggleFlight:0
+key_key.toggleMagnet:0
+key_key.toggleMagnetSelfPickup:0
+key_key.dragon.flyUp:19
+key_key.dragon.flyDown:33
+key_卸下装备:0
+key_重载配置:0
+key_添加自定义配置:0
+key_Enviromine菜单:0
+key_ingameinfoxml.key.toggle:0
+key_key.littletiles.rotateup:0
+key_key.littletiles.rotatedown:0
+key_key.littletiles.rotateright:0
+key_key.littletiles.rotateleft:0
+key_key.littletiles.flip:0
+key_key.littletiles.mark:0
+key_key.littletiles.tool_config:-97
+key_key.mm-ctrl:29
+key_key.mm-cut:0
+key_key.mm-copy:46
+key_key.mm-paste:47
+key_key.mm-reset:71
+key_Open Mobs Info GUI:0
+key_key.fart.desc:0
+key_key.nutrition:0
+key_打开背包:48
+key_选取方块:0
+key_基于所指方块/实体替换工具:0
+key_打开/关闭第一个插槽中的升级卡:0
+key_打开/关闭第二个插槽中的升级卡:0
+key_打开/关闭第三个插槽中的升级卡:0
+key_打开/关闭第四个插槽中的升级卡:0
+key_打开/关闭第五个插槽中的升级卡:0
+key_openmodslib.key.calc:13
+key_key.qz_miner.chainSwitch:46
+key_key.secretroomsmod.oneWayface:43
+key_sharewhereiam.keybinding.share.name:210
+key_key.aspectMenu:40
+key_tcnodetracker.key.togglenode:0
+key_techguns.key.toggleNightvision:0
+key_techguns.key.toggleSafemode:48
+key_techguns.key.toggleStepassist:47
+key_techguns.key.forceReload:19
+key_techguns.key.toggleJetpack:72
+key_keybinding.jumptoggle:0
+key_keybinding.speedtoggle:0
+key_keybinding.omnitoggle:0
+key_keybinding.inertiatoggle:0
+key_keybinding.incrementmodifier:0
+key_keybinding.stepassist:0
+key_Change Arcane Lens:0
+key_Activate Morphic Fingers:0
+key_Toggle Spider Climb:0
+key_Toggle Chameleon Skin:0
+key_Choose Shard for Shard Mill:73
+key_Toggle Pontifex Robe:0
+key_key.craftingGrid:0
+key_key.waystones.closegui:0
+key_wg.config.activateKey:0
+key_WorldEdit Reference:0
+key_com.github.hexosse.wecuife.keys.toggle:0
+key_com.github.hexosse.wecuife.keys.clear:74
+key_Cycle Ztone variants:29
+key_key.cofh.empower:47
+key_key.cofh.multimode:0
+key_nei.options.keys.showenchant:0
+key_key.control:0
+key_railcraft.keybind.loco.faster:0
+key_railcraft.keybind.loco.slower:0
+key_railcraft.keybind.loco.mode:0
+key_railcraft.keybind.loco.whistle:0
+key_key.fastBlockPlacing.desc:0
+key_key.sort_config:0
+key_key.sort_nogui:0
+key_key.sort_gui:19
+key_key.dropoff:0
+key_key.ae2_terminal_search:0
+key_key.bogosorter.controls_button:0
+key_key.journeymap.map_toggle:36
+key_key.journeymap.zoom_in:0
+key_key.journeymap.zoom_out:12
+key_key.journeymap.minimap_type:26
+key_key.journeymap.minimap_preset:43
+key_key.journeymap.create_waypoint:0
+key_nei.options.keys.gui.botania_corporea_request:46
+key_nei.options.keys.gui.xu_ping:20
+key_nei.options.keys.nee.count:29
+key_nei.options.keys.nee.ingredient:42
+key_nei.options.keys.nee.preview:29
+key_nei.options.keys.nee.nopreview:56
+key_nei.options.keys.gui.tinkers_belt:0
+soundCategory_master:1.0
+soundCategory_music:1.0
+soundCategory_record:1.0
+soundCategory_weather:1.0
+soundCategory_block:1.0
+soundCategory_hostile:1.0
+soundCategory_neutral:1.0
+soundCategory_player:1.0
+soundCategory_ambient:1.0

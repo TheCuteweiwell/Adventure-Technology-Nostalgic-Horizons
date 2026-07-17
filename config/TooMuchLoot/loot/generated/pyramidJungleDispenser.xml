@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<LootGroup category="pyramidJungleDispenser" loading_mode="OVERRIDE" count_min="2" count_max="2">
+    <loot item="minecraft:arrow" damage="0" weight="30" count_min="2" count_max="7"/>
+    <loot item="ExtraBotany:box" damage="0" weight="1" count_min="1" count_max="1"/>
+    <loot item="ExtraBotany:dungeonbox" damage="0" weight="1" count_min="1" count_max="2"/>
+    <loot item="lootbags:lootbag" damage="0" weight="20" count_min="1" count_max="1"/>
+</LootGroup>

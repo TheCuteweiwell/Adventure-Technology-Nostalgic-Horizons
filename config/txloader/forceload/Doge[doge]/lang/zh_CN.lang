@@ -1,0 +1,23 @@
+#Translated by TheCuteweiwell
+
+tile.dogeBlock.name=Doge块
+tile.miningRig.name=矿机
+
+item.dogecoin.name=Doge币
+item.dogeLauncher.name=Doge发射器
+item.gpu.name=显卡
+
+item.dogePickaxe.name=Doge镐
+item.dogeAxe.name=Doge斧
+item.dogeShovel.name=Doge铲
+item.dogeHoe.name=Doge锄
+item.dogeSword.name=Doge剑
+
+item.dogeHelmet.name=Doge头盔
+item.dogeChestplate.name=Doge胸甲
+item.dogeLeggings.name=Doge护腿
+item.dogeBoots.name=Doge靴子
+
+entity.dogeMob.name=Doge
+
+itemGroup.dogeTab=Doge模组

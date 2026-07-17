@@ -1,0 +1,1 @@
+mods.mekanism.Reaction.addRecipe(<Mekanism:BioFuel> * 2, <liquid:water> * 10, <gas:hydrogen> * 100, <Mekanism:Substrate>, <gas:ethene> * 100, 50, 50);

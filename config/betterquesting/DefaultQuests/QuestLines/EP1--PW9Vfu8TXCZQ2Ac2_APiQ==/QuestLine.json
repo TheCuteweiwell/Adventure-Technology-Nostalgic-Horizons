@@ -1,0 +1,47 @@
+{
+  "properties:10": {
+    "betterquesting:10": {
+      "bg_image:8": "",
+      "bg_size:3": 256,
+      "desc:8": "本章节将会教学如何进行 §匠§6§l匠魂工具§ §r 使用和对游戏机制的基本介绍，本整合包的大部分工具已被禁止使用",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "TConstruct:pickaxe",
+        "tag:10": {
+          "InfiTool:10": {
+            "Accessory:3": 3,
+            "Attack:3": 3,
+            "BaseAttack:3": 3,
+            "BaseDurability:3": 60,
+            "BonusDurability:3": 0,
+            "Broken:1": 0,
+            "Built:1": 1,
+            "Damage:3": 0,
+            "Handle:3": 3,
+            "HarvestLevel:3": 0,
+            "HarvestLevelModified:1": 0,
+            "Head:3": 3,
+            "HeadEXP:4": 0,
+            "MiningSpeed:3": 400,
+            "ModDurability:5": 0.0,
+            "Modifiers:3": 0,
+            "RenderAccessory:3": 3,
+            "RenderHandle:3": 3,
+            "RenderHead:3": 3,
+            "Shoddy:5": 0.0,
+            "ToolEXP:4": 0,
+            "ToolLevel:3": 1,
+            "TotalDurability:3": 60,
+            "Unbreaking:3": 0
+          }
+        }
+      },
+      "name:8": "EP.1 初出茅庐",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questLineIDHigh:4": -507291206016021136,
+  "questLineIDLow:4": -7402967685401669751
+}
