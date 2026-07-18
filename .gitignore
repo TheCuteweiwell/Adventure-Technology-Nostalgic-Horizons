@@ -1,0 +1,16 @@
+#Blacklist
+config/ChanceCubes/CustomRewards/Resourcepack/
+config/IC2.ini
+config/hodgepodgeEarly.properties
+config/shaders.properties
+config/splash.properties
+config/tabbychat/advanced.cfg
+config/tabbychat/
+config/ThaumicAllAspect/aspect-cache.cfg
+config/worldedit/worldedit.properties
+config/IguanaTinkerTweaks/restrictions.cfg
+#whitelist
+!config/tabbychat/advanced.cfg
+!config/tabbychat/general.cfg
+!config/tabbychat/global-filters.cfg
+!config/tabbychat/spellcheck.cfg

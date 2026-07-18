@@ -6,17 +6,17 @@
       {
         "name": "music/menu/menu1",
         "stream": true,
-        "volume" : 0.4
+        "volume" : 0.25
       },
       {
         "name": "music/menu/menu2",
         "stream": true,
-        "volume" : 0.4
+        "volume" : 0.25
       },
       {
         "name": "music/menu/menu3",
         "stream": true,
-        "volume" : 0.4
+        "volume" : 0.25
       }
     ]
   },
@@ -28,17 +28,17 @@
       {
         "name": "music/game/game1",
         "stream": true,
-        "volume": 0.6
+        "volume": 0.25
       },
       {
         "name": "music/game/game2",
         "stream": true,
-        "volume": 0.6
+        "volume": 0.25
       },
       {
         "name": "music/game/game3",
         "stream": true,
-        "volume": 0.6
+        "volume": 0.25
       }
     ]
   },
@@ -49,17 +49,17 @@
       {
         "name": "music/game/game1",
         "stream": true,
-        "volume": 0.6
+        "volume": 0.25
       },
       {
         "name": "music/game/game2",
         "stream": true,
-        "volume": 0.6
+        "volume": 0.25
       },
       {
         "name": "music/game/game3",
         "stream": true,
-        "volume": 0.6
+        "volume": 0.25
       }
     ]
   }
