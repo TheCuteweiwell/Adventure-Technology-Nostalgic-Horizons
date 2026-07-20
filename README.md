@@ -24,6 +24,7 @@ A modpack for Minecraft 1.7.10
 推荐内存:8G-10G
 
 未来计划:\
+编写核心模组:ATNH Core\
 任务书完善\
 科技与冒险的联动\
 HBM与其他科技Mod的联动\
