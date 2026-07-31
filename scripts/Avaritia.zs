@@ -144,43 +144,109 @@ mods.avaritia.ExtremeCrafting.addShaped(<Avaritia:Cosmic_Meatballs> * 3,
 [null, <minecraft:porkchop>, <minecraft:porkchop>, <minecraft:porkchop>, <minecraft:porkchop>, <minecraft:porkchop>, <minecraft:porkchop>, <minecraft:porkchop>, null]]);
 
 mods.avaritia.ExtremeCrafting.remove(<Avaritia:Resource:5>);
-mods.avaritia.ExtremeCrafting.addShaped(<Avaritia:Resource:5>, 
+mods.avaritia.ExtremeCrafting.addShapeless(<Avaritia:Resource:5>, [<minecraft:emerald_block>, <Avaritia:Ultimate_Stew>, <Avaritia:Cosmic_Meatballs>, <Avaritia:Endest_Pearl>, <ore:blockSteel>, <EnderIO:blockIngotStorage:6>, <TConstruct:MetalBlock:2>, <hbm:tile.block_schrabidium_cluster>, <ore:ingotIridium>, <Mekanism:ControlCircuit:3>, <ThaumicTinkerer:kamiResource:2>]);
 
-[[<minecraft:emerald_block>, <Avaritia:Ultimate_Stew>, <Avaritia:Cosmic_Meatballs>, <Avaritia:Endest_Pearl>, <ore:blockSteel>, <EnderIO:blockIngotStorage:6>, <TConstruct:MetalBlock:2>, <hbm:tile.block_schrabidium_cluster>, <ore:ingotIridium>],
+mods.avaritia.ExtremeCrafting.remove(<Avaritia:Infinity_Pickaxe>);
+mods.avaritia.ExtremeCrafting.addShaped(<Avaritia:Infinity_Pickaxe> * 1, 
 
-[<Mekanism:ControlCircuit:3>, <ThaumicTinkerer:kamiResource:2>, null, null, null, null, null, null, null],
+[[null, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, null],
 
-[null, null, null, null, null, null, null, null, null],
+[<ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <rubymod:item.UltimateRubyPickaxe>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>],
 
-[null, null, null, null, null, null, null, null, null],
+[null, null, null, null, <OreSpawn:OreSpawn_UltimatePickaxe>, null, null, null, null],
 
-[null, null, null, null, null, null, null, null, null],
+[null, null, null, null, <DraconicEvolution:draconicPickaxe>, null, null, null, null],
 
-[null, null, null, null, null, null, null, null, null], 
+[null, null, null, null, <ExtraUtilities:destructionpickaxe>, null, null, null, null],
 
-[null, null, null, null, null, null, null, null, null], 
+[null, null, null, null, <ThaumicTinkerer:ichorPickGem>, null, null, null, null], 
 
-[null, null, null, null, null, null, null, null, null], 
+[null, null, null, null, <ore:ingotCosmicNeutronium>, null, null, null, null], 
 
-[null, null, null, null, null, null, null, null, null]]);
+[null, null, null, null, <ore:ingotCosmicNeutronium>, null, null, null, null], 
 
-mods.avaritia.ExtremeCrafting.remove(<Avaritia:Resource:5>);
-mods.avaritia.ExtremeCrafting.addShaped(<Avaritia:Resource:5>, 
+[null, null, null, null, <ore:ingotCosmicNeutronium>, null, null, null, null]]);
 
-[[<minecraft:emerald_block>, <Avaritia:Ultimate_Stew>, <Avaritia:Cosmic_Meatballs>, <Avaritia:Endest_Pearl>, <ore:blockSteel>, <EnderIO:blockIngotStorage:6>, <TConstruct:MetalBlock:2>, <hbm:tile.block_schrabidium_cluster>, <ore:ingotIridium>],
+mods.avaritia.ExtremeCrafting.remove(<Avaritia:Infinity_Sword>);
+mods.avaritia.ExtremeCrafting.addShaped(<Avaritia:Infinity_Sword> * 1, 
 
-[<Mekanism:ControlCircuit:3>, <ThaumicTinkerer:kamiResource:2>, null, null, null, null, null, null, null],
+[[null, null, null, null, null, null, null, <ore:ingotInfinity>, <ore:ingotInfinity>],
 
-[null, null, null, null, null, null, null, null, null],
+[null, null, null, null, null, null, <ore:ingotInfinity>, <DraconicEvolution:draconicSword>, <ore:ingotInfinity>],
 
-[null, null, null, null, null, null, null, null, null],
+[null, null, null, null, null, <ore:ingotInfinity>, <ExtraUtilities:ethericsword>, <ore:ingotInfinity>, null],
 
-[null, null, null, null, null, null, null, null, null],
+[null, null, null, null, <ore:ingotInfinity>, <OreSpawn:OreSpawn_UltimateSword>.withTag({ench: [{lvl: 5 as short, id: 16 as short}, {lvl: 5 as short, id: 17 as short}, {lvl: 5 as short, id: 18 as short}, {lvl: 3 as short, id: 19 as short}, {lvl: 3 as short, id: 21 as short}, {lvl: 3 as short, id: 34 as short}, {lvl: 2 as short, id: 20 as short}]}), <ore:ingotInfinity>, null, null],
 
-[null, null, null, null, null, null, null, null, null], 
+[null, <ore:ingotCrystalMatrix>, null, <ore:ingotInfinity>, <rubymod:item.UltimateRubySword>, <ore:ingotInfinity>, null, null, null],
 
-[null, null, null, null, null, null, null, null, null], 
+[null, null, <ore:ingotCrystalMatrix>, <ThaumicTinkerer:ichorSwordGem>, <ore:ingotInfinity>, null, null, null, null], 
 
-[null, null, null, null, null, null, null, null, null], 
+[null, null, <ore:ingotCosmicNeutronium>, <ore:ingotCrystalMatrix>, null, null, null, null, null], 
 
-[null, null, null, null, null, null, null, null, null]]);
+[null, <ore:ingotCosmicNeutronium>, null, null, <ore:ingotCrystalMatrix>, null, null, null, null], 
+
+[<Avaritia:Resource:5>, null, null, null, null, null, null, null, null]]);
+
+mods.avaritia.ExtremeCrafting.remove(<Avaritia:Infinity_Bow>);
+mods.avaritia.ExtremeCrafting.addShaped(<Avaritia:Infinity_Bow> * 1, 
+
+[[null, null, null, <ore:ingotInfinity>, <ore:ingotInfinity>, null, null, null, null],
+
+[null, null, <ore:ingotInfinity>, null, <ore:blockWool>, null, null, null, null],
+
+[null, <Mekanism:ElectricBow>, null, null, <ore:blockWool>, null, null, null, null],
+
+[<OreSpawn:OreSpawn_UltimateBow>, null, null, null, <ore:blockWool>, null, null, null, null],
+
+[<DraconicEvolution:draconicBow>, null, null, null, <ore:blockWool>, null, null, null, null],
+
+[<rubymod:item.RubyBow>, null, null, null, <ore:blockWool>, null, null, null, null], 
+
+[null, <BloodArsenal:bound_bow>, null, null, <ore:blockWool>, null, null, null, null], 
+
+[null, null, <ore:ingotInfinity>, null, <ore:blockWool>, null, null, null, null], 
+
+[null, null, null, <ore:ingotInfinity>, <ore:ingotInfinity>, null, null, null, null]]);
+
+mods.avaritia.ExtremeCrafting.remove(<Avaritia:Infinity_Shovel>);
+mods.avaritia.ExtremeCrafting.addShaped(<Avaritia:Infinity_Shovel> * 1, 
+
+[[null, null, null, null, null, null, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>],
+
+[null, null, null, null, null, <ore:ingotInfinity>, <ExtraUtilities:erosionShovel>, <DraconicEvolution:draconicShovel>, <ore:ingotInfinity>],
+
+[null, null, null, null, null, null, <BloodArsenal:blood_infused_shovel_diamond>, <ThaumicTinkerer:ichorShovelGem>, <ore:ingotInfinity>],
+
+[null, null, null, null, null, <ore:ingotCosmicNeutronium>, null, <ore:ingotInfinity>, null],
+
+[null, null, null, null, <ore:ingotCosmicNeutronium>, null, null, null, null],
+
+[null, null, null, <ore:ingotCosmicNeutronium>, null, null, null, null, null], 
+
+[null, null, <ore:ingotCosmicNeutronium>, null, null, null, null, null, null], 
+
+[null, <ore:ingotCosmicNeutronium>, null, null, null, null, null, null, null], 
+
+[<ore:ingotCosmicNeutronium>, null, null, null, null, null, null, null, null]]);
+
+mods.avaritia.ExtremeCrafting.remove(<Avaritia:Infinity_Axe>);
+mods.avaritia.ExtremeCrafting.addShaped(<Avaritia:Infinity_Axe> * 1, 
+
+[[null, <ore:ingotInfinity>, <ore:ingotInfinity>, <ore:ingotInfinity>, null, null, null, null, null],
+
+[<ore:ingotInfinity>, <DraconicEvolution:draconicAxe>, <ExtraUtilities:defoliageAxe>, <OreSpawn:OreSpawn_UltimateAxe>.withTag({ench: [{lvl: 5 as short, id: 32 as short}]}), <ore:ingotInfinity>, null, null, null, null],
+
+[<ore:ingotInfinity>, <ThaumicTinkerer:ichorAxeGem>, <BloodArsenal:blood_infused_axe_diamond>, <ore:ingotInfinity>, null, null, null, null, null],
+
+[null, <ore:ingotInfinity>, <ore:ingotCosmicNeutronium>, null, null, null, null, null, null],
+
+[null, null, <ore:ingotCosmicNeutronium>, null, null, null, null, null, null],
+
+[null, null, <ore:ingotCosmicNeutronium>, null, null, null, null, null, null], 
+
+[null, null, <ore:ingotCosmicNeutronium>, null, null, null, null, null, null], 
+
+[null, null, <ore:ingotCosmicNeutronium>, null, null, null, null, null, null], 
+
+[null, null, <ore:ingotCosmicNeutronium>, null, null, null, null, null, null]]);

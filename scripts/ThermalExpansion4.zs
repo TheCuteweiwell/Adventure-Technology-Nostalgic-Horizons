@@ -1,0 +1,2 @@
+mods.mekanism.Enrichment.addRecipe(<etfuturum:modded_raw_ore:5>, <ThermalFoundation:material:37> * 2);
+mods.mekanism.Enrichment.addRecipe(<etfuturum:modded_deepslate_ore:5>, <ThermalFoundation:material:37> * 2);

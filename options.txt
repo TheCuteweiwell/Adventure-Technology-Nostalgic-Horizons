@@ -83,11 +83,11 @@ key_key.hotbar.8:9
 key_key.hotbar.9:10
 key_ALT Key:56
 key_Boost Key:47
-key_Mode Switch Key:46
+key_Mode Switch Key:0
 key_Side Inventory Key:0
 key_Hub Expand Key:0
-key_key.container_interaction.desc:0
-key_key.wireless_extra_action.desc:-96
+key_key.container_interaction.desc:45
+key_key.wireless_extra_action.desc:0
 key_key.wireless_mode_switch.desc:0
 key_ae2wct.OpenTerminal:0
 key_ae2wct.OpenMagnetFilter:0
@@ -117,6 +117,7 @@ key_nei.options.keys.bookmark.favorite:33
 key_nei.options.keys.bookmark.favorite_item:33
 key_nei.options.keys.bookmark.remove_recipe:30
 key_nei.options.keys.bookmark.pull_items:47
+key_nei.options.keys.bookmark.chat_link:38
 key_nei.options.keys.bookmark.hide:48
 key_nei.options.keys.itemzoom.toggle:44
 key_nei.options.keys.itemzoom.hold:0
@@ -135,7 +136,6 @@ key_nei.options.keys.world.creative:0
 key_nei.options.keys.copy.name:46
 key_nei.options.keys.copy.oredict:32
 key_nei.options.keys.copy.identifier:0
-key_nei.options.keys.copy.chat_link_item:38
 key_OreSpawn UP/FAST:0
 key_key.toggle_focus.desc:0
 key_key.search_connected_inventories.desc:0
@@ -243,7 +243,7 @@ key_key.cameraEmitRedstone:19
 key_key.cameraActivateNightVision:0
 key_nei.options.keys.gui.pattern_view:25
 key_饰品栏:0
-key_Change Wand Focus:0
+key_Change Wand Focus:-97
 key_Activate Hover Harness:0
 key_Misc Wand Toggle:0
 key_waila.keybind.wailaconfig:82
@@ -253,7 +253,7 @@ key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
 key_waila.keybind.showadvanced:42
 key_ae2fc.key.OpenTerminal:0
-key_ae2fc.key.OpenCraftingTerminal:0
+key_ae2fc.key.OpenCraftingTerminal:-96
 key_ae2fc.key.OpenLevelTerminal:0
 key_ae2fc.key.OpenInterfaceTerminal:0
 key_ae2fc.key.OpenPatternTerminal:0
@@ -377,13 +377,13 @@ key_key.journeymap.zoom_out:12
 key_key.journeymap.minimap_type:26
 key_key.journeymap.minimap_preset:43
 key_key.journeymap.create_waypoint:0
-key_nei.options.keys.gui.botania_corporea_request:46
 key_nei.options.keys.gui.xu_ping:20
+key_nei.options.keys.gui.botania_corporea_request:46
+key_nei.options.keys.gui.tinkers_belt:0
 key_nei.options.keys.nee.count:29
 key_nei.options.keys.nee.ingredient:42
 key_nei.options.keys.nee.preview:29
 key_nei.options.keys.nee.nopreview:56
-key_nei.options.keys.gui.tinkers_belt:0
 soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0

@@ -1,3 +1,5 @@
+mods.mekanism.Crusher.removeRecipe(<minecraft:gunpowder>);
+
 recipes.remove(<minecraft:saddle>);
 recipes.addShaped(<minecraft:saddle>,
 [[<minecraft:leather>,<minecraft:leather>,<minecraft:leather>],

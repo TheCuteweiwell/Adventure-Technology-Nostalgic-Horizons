@@ -1,0 +1,39 @@
+general:
+  chainLoggingShellLayers: 1.0
+  chainRadius: 4.0
+  enableFortuneForPlacedOre: false
+  parallelTickMinDurationMs: 15.0
+  greeting: Hello World
+  enableUnlimitedOreFortune: false
+  cableReplaceMaxPerTick: 1024.0
+  maxBreakPerTick: 16.0
+  chainMaxBlocks: 256.0
+  parallelTickServerWorkBudgetUnits: 64.0
+  chainWatchdogTimeoutTicks: 50.0
+client:
+  clientEnablePreviewRender: true
+  clientPreviewAlphaEndValue: 0.15
+  clientPreviewAlphaStartValue: 0.78
+  autoToolPrioritySelectors: []
+  autoToolSwapEnabled: true
+  parallelTickClientWorkBudgetUnits: 640.0
+  objectGroups:
+  - modes: []
+    members:
+    - minecraft:log@*
+    - minecraft:log2@*
+    id: vanilla_logs
+  - modes: []
+    members:
+    - minecraft:hay_block@[0,4,8]
+    id: vanilla_hay
+  - modes: []
+    members:
+    - minecraft:redstone_ore@*
+    - minecraft:lit_redstone_ore@*
+    id: vanilla_redstone
+  clientPreviewMaxRadius: 4.0
+  clientPreviewMaxTargets: 256.0
+  clientPreviewAlphaFadeStartRadius: 2.0
+  clientPreviewAlphaFadeEndRadius: 6.0
+  autoToolTakeoverEnabled: true

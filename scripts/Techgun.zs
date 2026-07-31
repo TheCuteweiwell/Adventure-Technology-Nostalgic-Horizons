@@ -57,3 +57,10 @@ recipes.addShaped(<Techguns:TechgunsAmmo:45>,
 [[null,null,null],
 [null,<etfuturum:barrier>.withTag({display: {Name: "§4§l此物品已被禁止合成"}}),null],
 [null,null,null]]);
+
+ChemLab.removeRecipe(<Techguns:TechgunsAmmo:70>,null);
+recipes.addShaped(<Techguns:TechgunsAmmo:70>,
+[[null,null,null],
+[null,<etfuturum:barrier>.withTag({display: {Name: "§4§l此物品已被禁止合成"}}),null],
+[null,null,null]]);
+ChemLab.addRecipe(<minecraft:log>,2,<minecraft:dirt>,0.1,<liquid:water>*1000,false,<IC2:itemHarz>,<liquid:water>*0,20);
